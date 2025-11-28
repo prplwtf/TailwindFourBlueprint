@@ -1,0 +1,15 @@
+info:
+  name: 'Tailwind 4 Palette'
+  identifier: 'tailwindfourpalette'
+  description: "Sets the frontend color palette to Tailwind v4's default palette"
+  version: '1.0'
+  target: 'beta-2025-11'
+  author: 'prplwtf'
+  icon: 'icon.jpg'
+  website: 'https://github.com/prplwtf/TailwindFourBlueprint'
+
+admin:
+  view: 'view.blade.php'
+
+dashboard:
+  css: 'dashboard.css'
