@@ -1,4 +1,45 @@
 :root {
+  --blueprint-white: 255 255 255;
+  --blueprint-black: 19 26 32;
+
+  --blueprint-primary: var(--blueprint-primary-500);
+  --blueprint-primary-50: var(--blueprint-blue-50);
+  --blueprint-primary-100: var(--blueprint-blue-100);
+  --blueprint-primary-200: var(--blueprint-blue-200);
+  --blueprint-primary-300: var(--blueprint-blue-300);
+  --blueprint-primary-400: var(--blueprint-blue-400);
+  --blueprint-primary-500: var(--blueprint-blue-500);
+  --blueprint-primary-600: var(--blueprint-blue-600);
+  --blueprint-primary-700: var(--blueprint-blue-700);
+  --blueprint-primary-800: var(--blueprint-blue-800);
+  --blueprint-primary-900: var(--blueprint-blue-900);
+  --blueprint-primary-950: var(--blueprint-blue-950);
+
+  --blueprint-neutral: var(--blueprint-neutral-500);
+  --blueprint-neutral-50: var(--blueprint-slate-50);
+  --blueprint-neutral-100: var(--blueprint-slate-100);
+  --blueprint-neutral-200: var(--blueprint-slate-200);
+  --blueprint-neutral-300: var(--blueprint-slate-300);
+  --blueprint-neutral-400: var(--blueprint-slate-400);
+  --blueprint-neutral-500: var(--blueprint-slate-500);
+  --blueprint-neutral-600: var(--blueprint-slate-600);
+  --blueprint-neutral-700: var(--blueprint-slate-700);
+  --blueprint-neutral-800: var(--blueprint-slate-800);
+  --blueprint-neutral-900: var(--blueprint-slate-900);
+  --blueprint-neutral-950: var(--blueprint-slate-950);
+
+  --blueprint-neutral-50: 248 250 252 !important;
+  --blueprint-neutral-100: 241 245 249 !important;
+  --blueprint-neutral-200: 226 232 240 !important;
+  --blueprint-neutral-300: 202 213 226 !important;
+  --blueprint-neutral-400: 144 161 185 !important;
+  --blueprint-neutral-500: 98 116 142 !important;
+  --blueprint-neutral-600: 69 85 108 !important;
+  --blueprint-neutral-700: 49 65 88 !important;
+  --blueprint-neutral-800: 29 41 61 !important;
+  --blueprint-neutral-900: 15 23 43 !important;
+  --blueprint-neutral-950: 2 6 24 !important;
+
   --blueprint-red-50: 254 242 242 !important;
   --blueprint-red-100: 255 226 226 !important;
   --blueprint-red-200: 256 201 201 !important;
@@ -238,18 +279,6 @@
   --blueprint-zinc-800: 39 39 42 !important;
   --blueprint-zinc-900: 24 24 27 !important;
   --blueprint-zinc-950: 9 9 11 !important;
-
-  --blueprint-neutral-50: 250 250 250 !important;
-  --blueprint-neutral-100: 245 245 245 !important;
-  --blueprint-neutral-200: 229 229 229 !important;
-  --blueprint-neutral-300: 212 212 212 !important;
-  --blueprint-neutral-400: 161 161 161 !important;
-  --blueprint-neutral-500: 115 115 115 !important;
-  --blueprint-neutral-600: 82 82 82 !important;
-  --blueprint-neutral-700: 64 64 64 !important;
-  --blueprint-neutral-800: 38 38 38 !important;
-  --blueprint-neutral-900: 23 23 23 !important;
-  --blueprint-neutral-950: 10 10 10 !important;
 
   --blueprint-stone-50: 250 250 249 !important;
   --blueprint-stone-100: 245 245 244 !important;
